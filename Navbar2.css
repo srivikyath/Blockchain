@@ -1,0 +1,16 @@
+/* nav{ */
+    /* background-color: rgb(7, 29, 1); */
+    /* background-color: rgb(184, 184, 184); */
+    /* background-color: rgb(202, 175, 70); */
+    /* background-color: darkgray; */
+    /* background-color: white; */
+    /* background-color: skyblue; */
+    /* background-color: skyblue; */
+/* } */
+nav {
+    background-image: url('greenleaves.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* Additional background properties as needed */
+}
+  
